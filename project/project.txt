@@ -1,0 +1,1 @@
+Debug/main.cpp.o Debug/command_line_parser.cpp.o Debug/protocol_handler.cpp.o Debug/md5_hasher.cpp.o Debug/auth_manager.cpp.o Debug/tcp_client.cpp.o Debug/result_data.cpp.o Debug/error_handler.cpp.o Debug/vector_data.cpp.o Debug/config_reader.cpp.o
